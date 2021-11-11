@@ -20,4 +20,4 @@ https://ibb.co/rpJWb2Z
 
 node index.js --action remove --id=3
 
-https://ibb.co/YDc3Rgj
+https://ibb.co/ZG4GzjJ
